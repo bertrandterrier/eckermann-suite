@@ -1,0 +1,6 @@
+fabric>=0.0.2
+i3ipc>=2.2.1
+loguru>=0.7.3
+pycairo>=1.28.0
+PyGObject>=3.50.0
+typer>=0.20.0
