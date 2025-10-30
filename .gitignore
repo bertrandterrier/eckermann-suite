@@ -1,0 +1,10 @@
+# Local personal use or tests
+scratch/
+.tests/
+
+# Possible user data
+.local/
+local/
+
+# Python
+__pycache__/*
