@@ -6,6 +6,12 @@ ECKERMANN-SUITE
 
 Suite for bertrandterriers personal secretary functionalities on Arch, named after Johann Peter Eckermann, who wasn't a secretary, but was remembered as one.
 
+Written in Python.
+
+
+# Modules
+
+
 # License
 
 MIT License
