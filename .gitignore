@@ -1,6 +1,7 @@
 # Local personal use or tests
-scratch/
-.tests/
+scratch/*
+scratch
+.tests/*
 
 # Possible user data
 .local/

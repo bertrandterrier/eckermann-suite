@@ -1,6 +1,7 @@
-import os
+from os import environ
 from typing import Any
 from pathlib import Path
+from dotenv import load_dotenv
 
 class XdgBaseDirs:
     defaults = {
@@ -32,5 +33,10 @@ class XdgBaseDirs:
     def getvar(self, arg: str, default: None|Any = Any) -> str|Any:
         xdg_default = self.defaults.get(arg, None)
 
-        return os.environ.get(arg, xdg_default) or default
+        return environ.get(arg, xdg_default) or default
 
+
+def make_eckname(module: str, name: str) -> tuple[str, str]:
+    mdl_name = environ.get("APP", "eckermann").title()
+
+    return
