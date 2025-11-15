@@ -1,2 +1,0 @@
-
-MDLNAME_SA = "eckermann"

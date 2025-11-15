@@ -1,6 +1,7 @@
-ECKERMANN-SUITE
-===============
+# Eckermann Suite
 
+- [Modules](#modules)
+  - [Eckermann](#eckermann-the-main-module)
 - [License](#license)
 - [Contact](#contact)
 
@@ -8,17 +9,13 @@ Suite for bertrandterriers personal secretary functionalities on Arch, named aft
 
 Written in Python.
 
+### Eckermann: The Main Module
+...
 
-# Modules
-
-
-# License
-
+## License
 MIT License
 
 Copyright (C) 2025 Immanuel Stemmert
 
-
-# Contact
-
+## Contact
 Personal repo. Best to contact me on [Mastodon](https://ifwo.eu/@bertrandterrier)
